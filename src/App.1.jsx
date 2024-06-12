@@ -76,7 +76,7 @@ export function App() {
             <img src="/helloicon.png" alt="Profile Icon" className="profile-icon" />
             <h1 className="header-title">Prabhu <span className="gradient-text">AI</span></h1>
           </a>
-          <span className="version">Developed by Prabesh Paudel </span>
+          <span className="version">@prabesh.paudell </span>
         </div>
         {activeComponent === "main" && (
           <>
