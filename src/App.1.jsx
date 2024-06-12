@@ -57,7 +57,7 @@ export function App() {
       {sidebarOpen && (
         <div className="sidebar">
           <button className="sidebar-item" onClick={() => setActiveComponent("main")}>
-            Main
+            Prabhu AI 
           </button>
           <button className="sidebar-item" onClick={() => setActiveComponent("history")}>
             History
@@ -76,7 +76,7 @@ export function App() {
             <img src="/helloicon.png" alt="Profile Icon" className="profile-icon" />
             <h1 className="header-title">Prabhu <span className="gradient-text">AI</span></h1>
           </a>
-          <span className="version">v1.2 </span>
+          <span className="version">Developed by Prabesh Paudel </span>
         </div>
         {activeComponent === "main" && (
           <>
