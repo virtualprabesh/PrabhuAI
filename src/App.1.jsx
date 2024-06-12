@@ -124,7 +124,7 @@ export function App() {
           <div className="about-developer-container">
             <h2 className="about-developer-title">About Developer</h2>
             <p className="about-developer-text">
-              Placeholder text about the developer. You can edit this section to include more information.
+            There is nothing you need to know about the developer.
             </p>
           </div>
         )}
